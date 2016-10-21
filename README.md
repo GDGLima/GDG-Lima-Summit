@@ -11,12 +11,14 @@ Talleres de IOT
   - Instalar Node.js https://nodejs.org/en/
   - Módulos
   
-    - Jhonny Five https://github.com/rwaldron/johnny-five/wiki/Getting-Started
-    - Socket IO http://socket.io/
-    - Firebase https://firebase.googleblog.com/2013/03/npm-install-firebase.html
-    - Express https://expressjs.com/en/starter/installing.html
+    - Jhonny Five [https://github.com/rwaldron/johnny-five/wiki/Getting-Started](https://github.com/rwaldron/johnny-five/wiki/Getting-Started)
+    - Socket IO [http://socket.io/](http://socket.io/)
+    - Firebase [https://firebase.googleblog.com/2013/03/npm-install-firebase.html](https://firebase.googleblog.com/2013/03/npm-install-firebase.html)
+    - Express [https://expressjs.com/en/starter/installing.html](https://expressjs.com/en/starter/installing.html)
+    - Bower [http://blog.teamtreehouse.com/getting-started-bower](http://blog.teamtreehouse.com/getting-started-bower)
     
-    ´´´
+    ```
+    
       // Jhony Five
       npm  install johnny-five
       
@@ -29,6 +31,10 @@ Talleres de IOT
       //Express
       npm install express
       
-    ´´´
+      //Bower
+      npm install bower
+      
+    ```
+    
  
   
