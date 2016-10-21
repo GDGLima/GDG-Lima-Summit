@@ -9,7 +9,7 @@ Talleres de IOT
   - Llevar Laptop
   - Instalar Arduino IDE https://www.arduino.cc/en/Main/Software
   - Instalar Node.js https://nodejs.org/en/
-  - Módulos
+  - Instalar Módulos
   
     - Jhonny Five [https://github.com/rwaldron/johnny-five/wiki/Getting-Started](https://github.com/rwaldron/johnny-five/wiki/Getting-Started)
     - Socket IO [http://socket.io/](http://socket.io/)
