@@ -48,9 +48,10 @@ Talleres de IOT
             
         ```
     
-    - Lego Musical [https://github.com/ecriverac/GDGSummit-LegoMusical](https://github.com/ecriverac/GDGSummit-LegoMusical
+    - Lego Musical [https://github.com/ecriverac/GDGSummit-LegoMusical](https://github.com/ecriverac/GDGSummit-LegoMusical)
     
-    - Django Rest Framework+ Arduino
+    - Django Rest Framework+ Arduino [https://github.com/neosergio/djangoino](https://github.com/neosergio/djangoino)
+    
     
    
   
