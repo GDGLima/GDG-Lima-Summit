@@ -35,9 +35,18 @@ Talleres de IOT
       npm install bower
       
     ```
-   2. Talleres
+    
+2. Talleres
    
     - Domo House [https://github.com/CarlosDevlp/GDGDomoHouse](https://github.com/CarlosDevlp/GDGDomoHouse)
+      * Clonar repositorio
+      * Instalar Node.js
+      * Dependencias
+        ```
+            npm install
+            bower install
+            
+        ```
     
     - Lego Musical [https://github.com/ecriverac/GDGSummit-LegoMusical](https://github.com/ecriverac/GDGSummit-LegoMusical
     
