@@ -35,6 +35,13 @@ Talleres de IOT
       npm install bower
       
     ```
+   2. Talleres
+   
+    - Domo House [https://github.com/CarlosDevlp/GDGDomoHouse](https://github.com/CarlosDevlp/GDGDomoHouse)
     
- 
+    - Lego Musical [https://github.com/ecriverac/GDGSummit-LegoMusical](https://github.com/ecriverac/GDGSummit-LegoMusical
+    
+    - Django Rest Framework+ Arduino
+    
+   
   
