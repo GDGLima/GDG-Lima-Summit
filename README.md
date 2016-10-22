@@ -1,4 +1,5 @@
 # GDG-Lima-Summit
+
 GDG Lima Summit 2016, Festival de desarrolladores orientado a IOT, Mobile y Web donde tendremos talleres y charlas. Contaremos con la participaciòn de comunidades de desarrolladores 
 
 [http://www.limadevfest.com/](http://www.limadevfest.com/)
@@ -47,7 +48,6 @@ Talleres de IOT
         ```
             npm install
             bower install
-            
         ```
     
     - Lego Musical [https://github.com/ecriverac/GDGSummit-LegoMusical](https://github.com/ecriverac/GDGSummit-LegoMusical)
