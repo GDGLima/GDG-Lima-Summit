@@ -46,6 +46,7 @@ Talleres de IOT
       * Clonar repositorio
       * Instalar Node.js
       * Dependencias
+      
         ```
             npm install
             bower install
