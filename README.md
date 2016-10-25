@@ -9,8 +9,8 @@ Presentaciones :
 Expositor | Tema  | Presentaciòn | Github
 ------------ | ------------- | ------------- | -------------
 Sergio Infante | Django Rest Framework + Arduino | https://speakerdeck.com/neosergio/django-plus-arduino | https://github.com/neosergio/djangoino
-
 John Machahuay Giraldo | Mobile App Development with react Native | http://slides.com/johnprog/react-native#/ | https://github.com/JohnProg/react-native-youtube-clone
+Angel Nuñez | Kubernetes: Orquestación, Despliegue y Escalamiento de Contenedores | http://www.slideshare.net/snahider/kubernetes-gdglimasummit | https://github.com/snahider/kubernetes-gdgsummit16
 
 
 Talleres de IOT :
