@@ -10,6 +10,8 @@ Expositor | Tema  | Presentaciòn | Github
 ------------ | ------------- | ------------- | -------------
 Sergio Infante | Django Rest Framework + Arduino | https://speakerdeck.com/neosergio/django-plus-arduino | https://github.com/neosergio/djangoino
 
+John Machahuay Giraldo | Mobile App Development with react Native | http://slides.com/johnprog/react-native#/ | https://github.com/JohnProg/react-native-youtube-clone
+
 
 Talleres de IOT :
 
