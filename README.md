@@ -17,6 +17,11 @@ Erik Porroa | Radiografía de una Aplicación JS | *** | ***
 Gustavo Leon| Comunicación con Docker containers usando websockets | https://hpneo.github.io/containers_websockets/ | https://github.com/hpneo/containers_websockets
 Marco Ordoñez| Cálculo lambda y la programación funcional | https://speakerdeck.com/mordonez/calculo-lambda-y-programacion-funcional | *** 
 Helard Gomez | Angular Fire | https://speakerdeck.com/player/bc5efaf2730845a89af0de1bc3d8a6c8?# | ***
+Carlos Chavez | Taller Electrònica & NodeJS | https://docs.google.com/presentation/d/1gP1aZIW4puFvH5gM8YaEYngHXdoo66Ti3J23MG-Kkhc/edit?usp=sharing | https://github.com/CarlosDevlp/GDGDomoHouse
+Elvis Rivera  | Taller ABC Arduino & NodeJS / Taller IOT | *** | ***
+Hèctor Paz  | Continuous Delivery con Docker y Jenkis | https://speakerdeck.com/hdanniel/codepicnic-despliegue-continuo-de-codigo-infraestructura-y-documentacion | ***
+Josè Manuel Rios & Luis Alonso Paulino Flores  | Creando experiencias a travèz de beacons | https://speakerdeck.com/lllalonsolll/creating-new-experiences-with-beacons | https://github.com/lllAlonsolll/BeaconApp
+
 
 Talleres de IOT :
 
