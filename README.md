@@ -4,8 +4,14 @@ GDG Lima Summit 2016, Festival de desarrolladores orientado a IOT, Mobile y Web 
 
 [http://www.limadevfest.com/](http://www.limadevfest.com/)
 
+Presentaciones :
 
-Talleres de IOT
+Expositor | Tema  | Presentaciòn | Github
+------------ | ------------- | ------------- | -------------
+Sergio Infante | Django Rest Framework + Arduino | https://speakerdeck.com/neosergio/django-plus-arduino | https://github.com/neosergio/djangoino
+
+
+Talleres de IOT :
 
 1. Requisitos 
 
