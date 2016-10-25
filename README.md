@@ -13,6 +13,10 @@ John Machahuay Giraldo | Mobile App Development with react Native | http://slide
 Angel Nuñez | Kubernetes: Orquestación, Despliegue y Escalamiento de Contenedores | http://www.slideshare.net/snahider/kubernetes-gdglimasummit | https://github.com/snahider/kubernetes-gdgsummit16
 Renato Centeno | Angular + Laravel = Powerful Web Apps | https://speakerdeck.com/elnato/laravel-5-dot-3-and-angular-2-lima-devfest-summit-2016 | https://github.com/elnato/laravel-angular-limadevfest-2016
 Eddú Meléndez | Testeando aplicaciones con Docker y Arquillian Cube | https://speakerdeck.com/eddumelendez/testeando-aplicaciones-con-docker-y-arquillian-cube | https://github.com/eddumelendez/arquillian-cube-maven-demos
+Erik Porroa | Radiografía de una Aplicación JS | *** | ***
+Gustavo Leon| Comunicación con Docker containers usando websockets | https://hpneo.github.io/containers_websockets/ | https://github.com/hpneo/containers_websockets
+Marco Ordoñez| Cálculo lambda y la programación funcional | https://speakerdeck.com/mordonez/calculo-lambda-y-programacion-funcional | *** 
+Helard Gomez | Angular Fire | https://speakerdeck.com/player/bc5efaf2730845a89af0de1bc3d8a6c8?# | ***
 
 Talleres de IOT :
 
