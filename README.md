@@ -11,7 +11,8 @@ Expositor | Tema  | Presentaciòn | Github
 Sergio Infante | Django Rest Framework + Arduino | https://speakerdeck.com/neosergio/django-plus-arduino | https://github.com/neosergio/djangoino
 John Machahuay Giraldo | Mobile App Development with react Native | http://slides.com/johnprog/react-native#/ | https://github.com/JohnProg/react-native-youtube-clone
 Angel Nuñez | Kubernetes: Orquestación, Despliegue y Escalamiento de Contenedores | http://www.slideshare.net/snahider/kubernetes-gdglimasummit | https://github.com/snahider/kubernetes-gdgsummit16
-
+Renato Centeno | Angular + Laravel = Powerful Web Apps | https://speakerdeck.com/elnato/laravel-5-dot-3-and-angular-2-lima-devfest-summit-2016 | https://github.com/elnato/laravel-angular-limadevfest-2016
+Eddú Meléndez | Testeando aplicaciones con Docker y Arquillian Cube | https://speakerdeck.com/eddumelendez/testeando-aplicaciones-con-docker-y-arquillian-cube | https://github.com/eddumelendez/arquillian-cube-maven-demos
 
 Talleres de IOT :
 
