@@ -6,7 +6,7 @@ GDG Lima Summit 2016, Festival de desarrolladores orientado a IOT, Mobile y Web 
 
 Presentaciones :
 
-Expositor | Tema  | Presentaciòn | Github
+Expositor | Tema  | Presentación | Github
 ------------ | ------------- | ------------- | -------------
 Sergio Infante | Django Rest Framework + Arduino | https://speakerdeck.com/neosergio/django-plus-arduino | https://github.com/neosergio/djangoino
 John Machahuay Giraldo | Mobile App Development with react Native | http://slides.com/johnprog/react-native#/ | https://github.com/JohnProg/react-native-youtube-clone
